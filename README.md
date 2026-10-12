@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm April. 👋
+
+I'm a creative and detail-oriented design enthusiast based in the Chicagoland area.
+
+
+I currently work as a Digital Communications Coordinator, focusing on website, social, and email marketing, but I'm interested in learning more about data analytics. Follow along on my journey as I document my progress here!
+
+### Contact
+You can reach me at <a href="mailto:contact@aprillarosa.com">contact@aprillarosa.com</a>
 
 <!--
 **aprillarosa/aprillarosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
